@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Generated outputs
+output/
+reports/
+
+# Temporary files
+*.tmp
+
+# IDE
+.vscode/
